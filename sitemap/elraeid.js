@@ -184,7 +184,7 @@ function displayToc(filter) {
    var tocTable = '';
    var tocHead1 = 'العنوان';
    var tocTool1 = 'انقر للتصنيف حسب العنوان';
-   var tocHead2 = 'تاريخ المشاركة';
+   var tocHead2 = 'التاريخ';
    var tocTool2 = 'انقر للتصنيف حسب التاريخ';
    var tocHead3 = 'القسم';
    var tocTool3 = '';
